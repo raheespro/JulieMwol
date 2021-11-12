@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="᥅ꪖꫝꫀꫀᦓ" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -27,15 +27,8 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 <a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
-  </div>
+## 📢
+
     
 ## Setup
 <div align="center">
